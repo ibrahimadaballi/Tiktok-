@@ -1,10 +1,3 @@
-# TikTok Otomasyon Botu
-
-Bu proje, TikTok için otomatik **Görüntüleme, Beğeni, Takipçi, Paylaşma ve Kaydetme** işlemleri yapabilen bir Python botudur.  
-Bot, **Pydroid3** ve **Termux** üzerinde çalışacak şekilde tasarlanmıştır.
-
----
-
 ## ⚙️ Özellikler
 - Video linki veya kullanıcı profili linki ile sipariş oluşturur.
 - Birden fazla servisi aynı anda çalıştırabilir.
