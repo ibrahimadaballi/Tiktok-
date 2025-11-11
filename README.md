@@ -73,9 +73,9 @@ ls
 pip install -r requirements.txt
 ```
 ```bash
-tiktok.py
+python3 Tiktok.py
 ```
-paydroid3:
+Paydroid3:
 
 $ pip install -r requirements.txt
 
