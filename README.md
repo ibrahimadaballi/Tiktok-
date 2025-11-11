@@ -21,6 +21,7 @@ Bot, **Pydroid3** ve **Termux** üzerinde çalışacak şekilde tasarlanmıştı
 Termux:
 ```bash
 pkg update && pkg upgrade -y
+pkg install git
 
 pkg install python git -y
 
@@ -30,4 +31,5 @@ ls
 pip install -r requirements.txt
 ls
 tiktok.py
+
 
