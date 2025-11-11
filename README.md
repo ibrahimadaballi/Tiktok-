@@ -4,7 +4,7 @@
 Use **Tikbot** for **followers, views, likes, shares, and more**.  
 Automate your TikTok engagement easily! ✨
 
-[![Visit GitHub](https://img.shields.io/badge/Visit-GitHub-ff0050?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim_adaballi)
+[![Visit GitHub](https://img.shields.io/badge/Visit-GitHub-ff0050?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahimadaballi)
 
 </div>
 
